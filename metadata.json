@@ -1,0 +1,6 @@
+{
+  "name": "Falling Catch",
+  "description": "An arcade game where players slide a basket to catch falling fruits and stars while dodging hazards to earn points.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

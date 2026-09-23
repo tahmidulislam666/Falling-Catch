@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Radiant Star Falling -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,22L57.5,31.2L67.4,31.9L59.8,38.1L62.2,47.8L54,42.7L45.8,47.8L48.2,38.1L40.6,31.9L50.5,31.2Z" />
+    <path
+        android:fillColor="#FFF9C4"
+        android:pathData="M54,26L56.2,32.2L62.8,32.7L57.7,36.8L59.3,43.3L54,39.9L48.7,43.3L50.3,36.8L45.2,32.7L51.8,32.2Z" />
+
+    <!-- Gem on left -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M33,38L39,34L45,38L42,46L36,46Z" />
+
+    <!-- Heart on right -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M72,34C70,32 66,33 66,36C66,40 72,44 72,44C72,44 78,40 78,36C78,33 74,32 72,34Z" />
+
+    <!-- Catch basket rim -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M24,62C24,60.9 24.9,60 26,60L82,60C83.1,60 84,60.9 84,62C84,63.1 83.1,64 82,64L26,64C24.9,64 24,63.1 24,62Z" />
+
+    <!-- Basket body -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M28,64L34,84C34.5,85.7 36,87 37.8,87L70.2,87C72,87 73.5,85.7 74,84L80,64Z" />
+
+    <!-- Basket weave lines -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M38,64L41,87M54,64L54,87M70,64L67,87M31,71L77,71M33,79L75,79"
+        android:strokeWidth="2"
+        android:strokeColor="#FF8F00" />
+</vector>
